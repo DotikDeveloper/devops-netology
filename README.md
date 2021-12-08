@@ -14,4 +14,4 @@ DevOps course from netology
 * файлы оканчивающиеся на: _override.tf, _override.tf.json
 * конфигурационные файлы (.terraformrc, terraform.rc)
 
-
+Новая строка для задания №3 (Домашнее задание к занятию «2.2. Основы Git»)
