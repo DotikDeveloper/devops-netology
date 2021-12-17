@@ -63,8 +63,7 @@ DevOps course from netology
 
  7. Кто автор функции synchronizedWriters?
 
-Ответ: git log -S'synchronizedWriters' --pretty=format:'%h / %as / %s / %an <%ae>'
-Впервые эта функция была создана этим автором
-* 5ac311e2a / 2017-05-03 / main: synchronize writes to VT100-faker on Windows / Martin Atkins <mart@degeneration.co.uk>
-
+Ответ: Получено командой: git log -S'synchronizedWriters' --pretty=format:'%h / %as / %s / %an <%ae>'
+* Полученно несколько результатов изменения данной функции, впервые (2017-05-03) функция (synchronizedWriters) была создана в коммите (hash: 5ac311e2a, сообщение: 'main: synchronize writes to VT100-faker on Windows') автором Martin Atkins <mart@degeneration.co.uk>
+ 
 
