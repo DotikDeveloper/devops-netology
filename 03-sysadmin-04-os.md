@@ -122,5 +122,6 @@ Vagrant с Ubuntu 20.04 (это важно, поведение в других �
 
 ###Дополнение к ответу:
 Механизм который помог стабилизироваться системе похоже этот:
-```commandline [14461.852446] cgroup: fork rejected by pids controller in /user.slice/user-1000.slice/session-2.scope
+```commandline 
+[14461.852446] cgroup: fork rejected by pids controller in /user.slice/user-1000.slice/session-2.scope
 ```
